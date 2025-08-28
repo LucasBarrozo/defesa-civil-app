@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Defesa Civil Nova Iguaçu</string>
+    
+    <!-- Header -->
+    <string name="defesa_civil_title">DEFESA CIVIL NOVA IGUAÇU</string>
+    <string name="defesa_civil_logo">Logo Defesa Civil</string>
+    <string name="nova_iguacu_logo">Logo Nova Iguaçu</string>
+    
+    <!-- Risk Status -->
+    <string name="risco">RISCO</string>
+    <string name="alto">ALTO</string>
+    <string name="heavy_rain">Chuva forte</string>
+    <string name="rain_icon">Ícone de chuva</string>
+    <string name="arrow_right">Seta para direita</string>
+    <string name="risk_gauge">Medidor de risco</string>
+    <string name="risk_needle">Agulha do medidor</string>
+    
+    <!-- Map -->
+    <string name="map_risk_areas">Mapa de áreas de risco e abrigos</string>
+    <string name="map_pin">Pin do mapa</string>
+    
+    <!-- Main Buttons -->
+    <string name="informacao">Informação</string>
+    <string name="informacao_icon">Ícone de megafone</string>
+    <string name="comunicacao">Comunicação</string>
+    <string name="comunicacao_icon">Ícone de telefone</string>
+    <string name="orientacao">Orientação</string>
+    <string name="orientacao_icon">Ícone de livro</string>
+    <string name="apoio">Apoio</string>
+    <string name="apoio_icon">Ícone de sino com lâmpada</string>
+    <string name="sos">SOS</string>
+    <string name="participacao">Participação</string>
+    <string name="participacao_icon">Ícone de aperto de mão</string>
+    
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Navigation drawer opened</string>
+    <string name="navigation_drawer_close">Navigation drawer closed</string>
+    <string name="nav_header_title">Defesa Civil</string>
+    <string name="nav_header_subtitle">Nova Iguaçu</string>
+    <string name="nav_header_desc">Aplicativo oficial da Defesa Civil de Nova Iguaçu</string>
+    
+    <!-- Menu items -->
+    <string name="menu_home">Início</string>
+    <string name="menu_emergency">Emergências</string>
+    <string name="menu_shelters">Abrigos</string>
+    <string name="menu_news">Notícias</string>
+    <string name="menu_contact">Contato</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_about">Sobre</string>
+</resources>
