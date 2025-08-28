@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_target"
+        android:title="@string/menu_home" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_chat"
+        android:title="Chat" />
+
+    <item
+        android:id="@+id/navigation_documents"
+        android:icon="@drawable/ic_document"
+        android:title="Documentos" />
+
+    <item
+        android:id="@+id/navigation_folder"
+        android:icon="@drawable/ic_folder"
+        android:title="Arquivos" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Perfil" />
+
+</menu>
