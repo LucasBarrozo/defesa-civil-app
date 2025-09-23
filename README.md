@@ -47,4 +47,4 @@ Este é um aplicativo Android desenvolvido em Kotlin para a Defesa Civil de Nova
 
 ## Autor
 
-Desenvolvido para a Defesa Civil de Nova Iguaçu
+Desenvolvido por Lucas de Paula 
